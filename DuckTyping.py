@@ -5,7 +5,7 @@ class InkjetPrinter:
     def printdocument(self,document):
         print("Inkjet Printer Printing : ",document)
 
-class LaserPrinter:
+class LaserPrinter:            
     def printdocument(self,document):
         print("Laser Printer Printing : ",document)
 
