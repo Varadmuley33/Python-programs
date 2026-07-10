@@ -4,4 +4,4 @@ class Demo:
         self._No2 = 20            # procted
         self.__No3 = 30           # private
 
-obj = Demo()
+obj = Demo()   
