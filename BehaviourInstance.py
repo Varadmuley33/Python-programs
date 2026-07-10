@@ -4,7 +4,7 @@ class Demo:
     def __init__(self,A,B):    #It is written to create an instance
         self.Value1 = A
         self.Value2 = B
-
+    
     def fun(self):
         print("Inside Instance method fun",self.Value1,self.Value2)
 
