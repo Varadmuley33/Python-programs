@@ -3,7 +3,7 @@ import os
 
 def DirctoryScanner(DirName = "Marvellous"):
     Border = "-"*50
-
+   
     fobj = open("Marvellous.log","w")
 
     fobj.write(Border+"\n")
