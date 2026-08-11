@@ -13,7 +13,7 @@ def DirctoryScanner(DirName = "Marvellous"):
     if(Ret == False):
         print("It is not a directory")
         return
-
+    
     FileCount = 0
     EmptyFileCount = 0
 
