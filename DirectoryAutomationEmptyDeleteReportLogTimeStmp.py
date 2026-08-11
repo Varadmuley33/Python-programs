@@ -3,7 +3,7 @@ import os
 import time
 
 def DirctoryScanner(DirName = "Marvellous"):
-    Border = "-"*50
+    Border = "-"*50   
     timestamp = time.ctime()
 
     Logfilename = "Marvellous%s.log" %(timestamp)
