@@ -8,7 +8,7 @@ def DirctoryScanner(DirName = "Marvellous"):
     if(Ret == False):
         print("There is no such directory")
         return
-
+    
     Ret = os.path.isdir(DirName)
     if(Ret == False):
         print("It is not a directory")
