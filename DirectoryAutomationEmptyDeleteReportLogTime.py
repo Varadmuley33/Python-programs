@@ -7,7 +7,7 @@ def DirctoryScanner(DirName = "Marvellous"):
     timestamp = time.ctime()
 
     fobj = open("Marvellous.log","w")
-
+   
     fobj.write(Border+"\n")
     fobj.write("This is a log file created by Marvellous Automation\n")
     fobj.write("This is a Directory Cleaner Script\n")
