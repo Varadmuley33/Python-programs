@@ -4,7 +4,7 @@
 
 Data = bytearray([65,97,98])
 
-print(Data)
+print(Data)   
 print(type(Data))   
 print(Data[0])
 
