@@ -6,7 +6,7 @@ class Demo:
         self.Value2 = B
 
 print("Class Variable No :",Demo.No)
-
+   
 obj1 = Demo(11,21)
 obj2 = Demo(51,101)
 
