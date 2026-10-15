@@ -2,7 +2,7 @@
 def filterX(Task , Elements):
     Result = list()
 
-    for no in Elements:
+    for no in Elements:   
         Ret = Task(no)
 
         if(Ret == True):
