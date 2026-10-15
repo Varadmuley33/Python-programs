@@ -6,7 +6,7 @@ def main():
         print("Current offset is : ",fobj.tell())   # 0
 
         fobj.seek(7)
-
+    
         print("Current offset is : ",fobj.tell())   # 7
 
         Data = fobj.read(10)
