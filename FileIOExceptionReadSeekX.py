@@ -5,7 +5,7 @@
 # 2 : End
 
 def main():
-    try:
+    try:     
         fobj = open("Hello.txt","r")
         print("File gets succesfully opened")
 
