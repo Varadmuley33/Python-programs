@@ -4,7 +4,7 @@ from functools import reduce
 
 #def CheckEven(No):
 #   return (No % 2 == 0)
-
+    
 CheckEven = lambda No : (No % 2 == 0)
 
 
