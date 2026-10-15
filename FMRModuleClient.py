@@ -2,7 +2,7 @@ from FMRMarvellous import filterX, mapX, reduceX
 
 CheckEven = lambda No : (No % 2 == 0)
 Increment = lambda No : No+1
-Add = lambda A,B : A + B
+Add = lambda A,B : A + B   
 
 
 def main():
