@@ -3,7 +3,7 @@ def main():
         fobj = open("Hello.txt","a")
         print("File gets succesfully opened")
 
-        fobj.write("Python Automation")
+        fobj.write("Python Automation")      
 
         fobj.close()
     
