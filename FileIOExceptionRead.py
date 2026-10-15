@@ -4,7 +4,7 @@ def main():
         print("File gets succesfully opened")
 
         Data = fobj.read()
-
+     
         print("Data from file is : ",Data)
 
         fobj.close()
