@@ -3,7 +3,7 @@ def main():
         open("Demo.txt")
         print("File gets succesfully opened")
 
-    except FileNotFoundError:
+    except FileNotFoundError:    
         print("Unable to open file as there is no such file")
 
     finally:
