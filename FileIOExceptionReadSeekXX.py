@@ -8,7 +8,7 @@ def main():
     try:
         fobj = open("Hello.txt","r")
         print("File gets succesfully opened")
-
+   
         print("Current offset is : ",fobj.tell())   # 0
 
         fobj.seek(6,1)
