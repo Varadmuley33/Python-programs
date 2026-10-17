@@ -10,7 +10,7 @@ print("Multiplication is : ",Ans)
 
 #####################################################
 
-print("Enter first number : ")
+print("Enter first number : ")   
 No1 = int(input())
 
 print("Enter second number : ")
