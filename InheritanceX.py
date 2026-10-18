@@ -6,7 +6,7 @@ class Parent:
 
     def fun(self):
         print("Inside Fun method of parent"  ,self.No1,self.No2)
-
+   
 
 class Child(Parent):
     def __init__(self):
