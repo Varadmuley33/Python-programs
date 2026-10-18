@@ -5,7 +5,7 @@ class Parent:
         self.No2 = 20
 
     def fun(self):
-        print("Inside Fun method of parent")
+        print("Inside Fun method of parent")   
 
 
 class Child(Parent):
