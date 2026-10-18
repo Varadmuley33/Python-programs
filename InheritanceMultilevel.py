@@ -5,5 +5,5 @@ class Child(Parent):
     pass
 
 
-class ChildX(Child):
+class ChildX(Child):   
     pass
