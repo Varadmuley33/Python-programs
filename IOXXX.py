@@ -3,7 +3,7 @@ No1 = int(input())
 
 print("Enter second number : ")
 No2 = int(input())
-
+   
 print(type(No1))
 print(type(No2))
 
