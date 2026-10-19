@@ -5,7 +5,7 @@ CheckEven = lambda No : (No % 2 == 0)
 
 def main():
     Value = 0
-    Ret = False
+    Ret = False   
 
     print("Enter the number ")
     Value = int(input())
