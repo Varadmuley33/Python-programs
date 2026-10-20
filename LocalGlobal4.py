@@ -6,7 +6,7 @@ def Fun():
     No = No + 1   #12
     print("Value of no from fun is : ",No)  #12
 
-
+   
 print("Value of No is : ",No)               #11
 Fun()
 print("Value of No is : ",No)               #12
