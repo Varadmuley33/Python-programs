@@ -5,7 +5,7 @@ class Demo:
         self.No = A
 
     def __add__(self,other):
-        return self.No + other.No
+        return self.No + other.No   
 
     def __sub__(self,other):
         return self.No - other.No
