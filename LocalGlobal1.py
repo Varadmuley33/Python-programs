@@ -6,4 +6,4 @@ def Fun():
 
 print("Value of No is : ",No)               #11
 
-Fun()
+Fun()  
