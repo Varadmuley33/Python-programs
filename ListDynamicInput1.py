@@ -4,7 +4,7 @@ def main ():
 
     print("Enter the number of variables : ")
     size = int(input())
-
+  
     Data = list()
 
     print("Enter the elements : ")
