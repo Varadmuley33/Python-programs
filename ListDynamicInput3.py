@@ -4,7 +4,7 @@ def Summation(Arr):
     for i in range(len(Arr)):
         sum = sum + Arr[i]
     
-    return sum
+    return sum   
 
 def main ():
     size = 0
