@@ -4,7 +4,7 @@ def main():
         print("File gets succesfully opened")
 
         print("Current offset is : ",fobj.tell())
-
+   
         Data = fobj.read(6)
 
         print("Current offset is : ",fobj.tell())
