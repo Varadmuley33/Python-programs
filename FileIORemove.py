@@ -7,7 +7,7 @@ def main():
         os.remove(FileName)
         print("File gets deleted")
         
-    else:
+    else:   
         print("There is no such file")
 
 if __name__ == "__main__":
