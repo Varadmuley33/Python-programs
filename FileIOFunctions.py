@@ -6,7 +6,7 @@ def main():
     if(os.path.exists(FileName)):
        fobj = open(FileName,"r")
 
-       print(fobj.name) # Demo.txt
+       print(fobj.name) # Demo.txt   
        print(fobj.mode) # R
        print(fobj.closed)   # False
 
