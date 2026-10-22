@@ -5,7 +5,7 @@ def main():
 
     if(os.path.exists(FileName)):
         Ret = os.path.isabs(FileName)
-
+   
         if(Ret == True):
             print("It is absolute path")
         else:
