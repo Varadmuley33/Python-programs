@@ -4,7 +4,7 @@ import time
 def SumCube(No):
     print("Process is running with PID : ",os.getpid())
     Sum = 0
-
+   
     for i in range(1,No+1):
         Sum = Sum + (i**3)     # This also works as the same previous code 
 
