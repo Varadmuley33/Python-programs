@@ -5,7 +5,7 @@ def SumCube(No):
         Sum = Sum + (i*i*i)
 
     return Sum
-
+   
 def main():
     Ret = SumCube(10)
 
