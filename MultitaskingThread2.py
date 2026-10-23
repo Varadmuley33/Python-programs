@@ -5,7 +5,7 @@ def Display():
 
 def main():
     print("Inside main : ",threading.get_ident())
-
+   
     t = threading.Thread(target=Display)
     t.start()
 
