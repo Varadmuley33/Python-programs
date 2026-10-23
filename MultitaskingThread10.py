@@ -13,7 +13,7 @@ def SumOdd(No):
         sum = sum + i
     
     print("Odd sum is : ",sum)
-
+   
 def main():
     SumEven(10000000)
     SumOdd(10000000)
