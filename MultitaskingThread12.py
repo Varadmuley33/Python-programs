@@ -6,7 +6,7 @@ def SumEven(No):
     for i in range(2,No+1,2):
         sum = sum + i
     
-    print("Even sum is : ",sum)
+    print("Even sum is : ",sum)   
 
 def SumOdd(No):
     sum = 0
