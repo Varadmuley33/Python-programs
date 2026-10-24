@@ -3,7 +3,7 @@ class Arithematic:
         return A + B
 
     def Substraction(self,A,B):
-        return A - B
+        return A - B   
 
 No1 = 0
 No2 = 0
