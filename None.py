@@ -1,4 +1,4 @@
 Data = None
 
 print(Data)
-print(type(Data))
+print(type(Data))   
