@@ -4,7 +4,7 @@ def Addition(A,B):
 def Substraction(A,B):
     return A - B
 
-No1 = 0
+No1 = 0  
 No2 = 0
 Ans = 0 
 
