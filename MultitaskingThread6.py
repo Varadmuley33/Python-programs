@@ -8,7 +8,7 @@ def main():
     print("Inside main : ",threading.get_ident())
 
     t1 = threading.Thread(target=Display)
-    t1.start()
+    t1.start()   
     
     t2 = threading.Thread(target=Display)
     t2.start()
