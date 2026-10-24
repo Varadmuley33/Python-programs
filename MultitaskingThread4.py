@@ -9,7 +9,7 @@ def main():
     print("Inside main : ",threading.get_ident())
 
     t = threading.Thread(target=Display)
-    t.start()
+    t.start()   
     t.join()
 
     print("End of main")
