@@ -4,7 +4,7 @@ class Arithematic:
 
     def Substraction(self,A,B):
         return A - B
-
+  
 No1 = 0
 No2 = 0
 Ans = 0 
