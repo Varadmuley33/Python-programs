@@ -5,7 +5,7 @@ def Display(No):
 
 def main():
     t = threading.Thread(target=Display, args=(11,))
-    t.start()
+    t.start()   
     
 if __name__ == "__main__":
     main()
