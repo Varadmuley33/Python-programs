@@ -3,7 +3,7 @@ def CheckEven(No):
         print("It is even")
     else:
         print("It is odd")
-
+   
 def main():
     CheckEven(21)                 #Positional
     CheckEven(No = 22)            #Keyword argument
