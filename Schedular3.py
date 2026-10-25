@@ -5,7 +5,7 @@ import schedule
 
 def fun():
     print("Inside Fun at : ",datetime.datetime.now())
-
+   
 def main():
     print("Inside Marvellous AutomationScript at : ",datetime.datetime.now())
 
