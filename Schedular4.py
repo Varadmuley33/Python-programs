@@ -3,7 +3,7 @@ import datetime
 import schedule
 
 
-def fun():
+def fun():   
     print("Inside fun at : ",datetime.datetime.now())
 
 def gun():
