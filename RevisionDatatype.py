@@ -7,7 +7,7 @@ print(type(no))
 print("------------------------------")
 
 marks = 90.78
-print(marks)
+print(marks)     
 print(type(marks))
 print("------------------------------")
 
