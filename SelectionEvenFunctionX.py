@@ -5,7 +5,7 @@ def CheckEven(No):
         print("It is even")
     else:
         print("It is odd")
-
+   
 def main():
     Value = 0
 
