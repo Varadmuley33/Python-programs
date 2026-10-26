@@ -7,7 +7,7 @@ def Update():
 
     for _ in range(2000000):
         iCnt += 1
-
+   
 
 if __name__ == "__main__":
     iCnt = 0
