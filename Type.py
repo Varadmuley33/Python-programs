@@ -7,5 +7,5 @@ Complex = 7 + 9j    #complex
 print(type(Age))
 print(type(Marks))
 print(type(City))
-print(type(Food))
+print(type(Food))   
 print(type(Complex))
