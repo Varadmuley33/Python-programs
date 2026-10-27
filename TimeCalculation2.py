@@ -1,6 +1,6 @@
 import time
 
-def Factorial(No):
+def Factorial(No):  
     Fact = 1  
 
     for i in range(1,No+1):
