@@ -5,7 +5,7 @@ class Demo:
     No2 = 11     #class variable
 
     def __init__(self):
-        print("Inside Constructor")
+        print("Inside Constructor")   
 
 
     def __del__(self):
