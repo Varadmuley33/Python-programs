@@ -3,7 +3,7 @@ class Demo:
 
     def __init__(self,A,B):    #It is written to create an instance
         self.Value1 = A
-        self.Value2 = B
+        self.Value2 = B  
 
 print("Class Variable No :",Demo.No)
 
