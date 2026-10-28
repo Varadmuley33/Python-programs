@@ -9,7 +9,7 @@ class Demo:
         #Instance Variable
         self.A = 101
         self.B = 201
-        print("Inside Constructor")
+        print("Inside Constructor")  
 
 
     def __del__(self):
