@@ -7,7 +7,7 @@ def CalculateChecksum(FileName):        # 4567
 
     Buffer = fobj.read(1000)
     
-    while(len(Buffer) > 0):
+    while(len(Buffer) > 0):  
         hobj.update(Buffer)
         Buffer = fobj.read(1000)
 
