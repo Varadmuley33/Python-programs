@@ -3,7 +3,7 @@ class Arithematic:
         self.No1 = A
         self.No2 = B
         print("Object gets created successfully")
-
+   
     def Addition(self):
         Ans = 0
         Ans = self.No1 + self.No2
