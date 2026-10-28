@@ -1,6 +1,6 @@
 def main():
     print("Enter first number : ")
-    No1 = int(input())
+    No1 = int(input())   
 
     print("Enter second number : ")
     No2 = int(input())
