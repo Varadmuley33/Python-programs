@@ -7,7 +7,7 @@ class Demo:
 
     def __del__(self):
         print("Inside Descructor")
-
+  
 #Allocate
 obj = Demo()
 
