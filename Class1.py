@@ -5,7 +5,7 @@ class Demo:
 
     def __del__(self):
         print("Inside Descructor")
-
+  
 
 obj = Demo()
 
