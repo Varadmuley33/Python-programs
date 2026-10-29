@@ -3,7 +3,7 @@ import os
 
 def CalculateChecksum(FileName):        # 4567
     fobj = open(FileName, "rb")
-
+   
     hobj = hashlib.md5()
 
     Buffer = fobj.read(1000)
