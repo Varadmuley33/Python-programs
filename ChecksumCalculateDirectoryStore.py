@@ -2,7 +2,7 @@ import hashlib
 import os
 
 
-
+   
 def CalculateChecksum(FileName):        # 4567
     fobj = open(FileName, "rb")
 
