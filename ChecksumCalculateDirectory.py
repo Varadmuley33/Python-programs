@@ -2,7 +2,7 @@ import hashlib
 import os
 
 def CalculateChecksum(FileName):        # 4567
-    fobj = open(FileName, "rb")
+    fobj = open(FileName, "rb")   
 
     hobj = hashlib.md5()
 
