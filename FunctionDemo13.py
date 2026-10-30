@@ -6,7 +6,7 @@ def Phoenix():
     
     Zara()
 
-def main():
+def main():   
     Phoenix()
 
 if __name__ == "__main__":
