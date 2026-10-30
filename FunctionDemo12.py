@@ -6,7 +6,7 @@ def Phoenix():
 
 
 def main():
-    Phoenix.Zara()          #Error not allowed 
+    Phoenix.Zara()          #Error not allowed    
 
 if __name__ == "__main__":
     main()  
