@@ -5,7 +5,7 @@ def Multiplication(Value1, Value2):
 
 No1 = 0
 No2 = 0
-Result = 0
+Result = 0   
 
 No1 = int(input("Enter first number : "))
 No2 = int(input("Enter second number : "))
