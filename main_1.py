@@ -4,7 +4,7 @@ def Multiplication(Value1, Value2):
     return Ans
 
 def main():
-    No1 = 0
+    No1 = 0   
     No2 = 0
     Result = 0
 
