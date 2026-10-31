@@ -9,7 +9,7 @@ class Demo:
         print("Inside Descructor")
 
 #Allocate
-obj1 = Demo()
+obj1 = Demo()   
 obj2 = Demo()
 
 
